@@ -1,16 +1,15 @@
 <div align="center">
 
-# 👋 badVIno | badVIno-ctrl
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Hi+I'm+badVIno+%7C+badVIno-ctrl;Full-Stack+Developer;UI%2FUX+Enthusiast;Cyberpunk+%2F+Glassmorphic+Aesthetics)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F77DD&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;UI%2FUX+Enthusiast;Cyberpunk+%2F+Glassmorphic+Aesthetics;AI-Integrated+Systems)](https://git.io/typing-svg)
-
-Building high-performance web apps, interactive interfaces, and AI-integrated systems.
+**Building high-performance web apps, interactive interfaces, and AI-integrated systems.**
+*Focused on clean code, modern aesthetics (Glassmorphic / Cyberpunk), and seamless user experiences.*
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -30,12 +29,12 @@ Building high-performance web apps, interactive interfaces, and AI-integrated sy
 
 | # | Project | Description | Stack | Platform |
 |---|---------|-------------|-------|----------|
-| 🌐 | [CyberSphere Multiplayer](https://game-t4at.onrender.com/) | Real-time multiplayer game with day/night cycles, localized flashlights, overhauled gunplay | JS · Node.js · WebSockets · Canvas | 🖥️ Desktop |
+| 🌐 | [CyberSphere Multiplayer](https://game-t4at.onrender.com/) | Real-time multiplayer game with dynamic day/night cycles, localized flashlights, overhauled gunplay | JS · Node.js · WebSockets · Canvas | 🖥️ Desktop |
 | 📱 | [iPhones Showcase Store](https://iphones-573t.onrender.com/) | Sleek Apple products e-commerce landing page, fully responsive | TS · React · CSS Modules | 📱 Mobile |
 | 🎓 | [AI-Driven Online School](https://shweb-ten.vercel.app/) | Next-gen educational platform with AI core — active MVP | TS · Next.js · OpenAI/Mistral | 📱 Mobile |
-| ♔ | [Viora Chess Engine](https://badvino-ctrl.github.io/chess/) | Adaptive AI chess with 3D viewports, tutorials, hints | JS · Three.js · Canvas | 📱 Mobile |
+| ♔ | [Viora Chess Engine](https://badvino-ctrl.github.io/chess/) | Adaptive AI chess with 3D viewports, tutorials, hints, match persistence | JS · Three.js · Canvas | 📱 Mobile |
 | ⛃ | [AI Checkers](https://badvino-ctrl.github.io/online-heckers/) | Classic checkers with built-in scaling AI engine | HTML5 · CSS3 · JS | 📱 Mobile |
-| 🧠 | [Brain Explorer](https://badvino-ctrl.github.io/brain/) | Interactive 3D human brain for anatomy/neuroscience students | JS · WebGL · Canvas | 📱 Mobile |
+| 🧠 | [Brain Explorer](https://badvino-ctrl.github.io/brain/) | Interactive 3D human brain visualization for anatomy students | JS · WebGL · Canvas | 📱 Mobile |
 | 🔮 | [AI Personality Analyzer](https://badvino-ctrl.github.io/testv/) | Neural network personality type analysis from behavior inputs | Python · JS · Web API | 📱 Mobile |
 | ⏳ | [Viora In Hours](https://badvino-ctrl.github.io/Viora-in-hours/) | Converts retail prices into real working hours — Mistral AI powered | JS · Mistral AI · TailwindCSS | 📱 Mobile |
 
@@ -43,16 +42,20 @@ Building high-performance web apps, interactive interfaces, and AI-integrated sy
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=badVIno-ctrl&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D1117" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badVIno-ctrl&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0D1117" height="160" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=badVIno-ctrl&theme=dark&hide_border=true&background=0D1117&ring=7F77DD&fire=7F77DD&currStreakLabel=7F77DD&sideLabels=7F77DD&dates=888888" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badVIno-ctrl&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0D1117&langs_count=8" height="160" />
+</div>
 
 ---
 
 ### 📬 Connect
 
 <p align="left">
-  <a href="https://t.me/VioraStudio"><img src="https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://t.me/badVInq"><img src="https://img.shields.io/badge/Telegram_DM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/VioraStudio">
+    <img src="https://img.shields.io/badge/Telegram_Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://t.me/badVInq">
+    <img src="https://img.shields.io/badge/Telegram_DM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
