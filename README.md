@@ -1,30 +1,31 @@
-<!-- ============ HERO ============ -->
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,55:8FC4E6,100:0B4F79&height=210&section=header&text=badVIno&fontSize=76&fontColor=0B0F14&fontAlign=18&fontAlignY=38&animation=fadeIn&desc=VioraStudio%20%E2%80%94%20web%20apps%2C%20interactive%20UI%2C%20AI%20systems&descAlign=18&descAlignY=58&descSize=16">
-  <img width="100%" alt="badVIno — VioraStudio" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,55:143650,100:5EC8F2&height=210&section=header&text=badVIno&fontSize=76&fontColor=E6EDF3&fontAlign=18&fontAlignY=38&animation=fadeIn&desc=VioraStudio%20%E2%80%94%20web%20apps%2C%20interactive%20UI%2C%20AI%20systems&descAlign=18&descAlignY=58&descSize=16">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,45:8FC4E6,100:0B4F79&height=190&section=header&text=badVIno&fontSize=72&fontColor=0B0F14&fontAlignY=42&animation=fadeIn">
+  <img width="100%" alt="badVIno" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:143650,100:5EC8F2&height=190&section=header&text=badVIno&fontSize=72&fontColor=E6EDF3&fontAlignY=42&animation=fadeIn">
 </picture>
 
-<img alt="active" src="https://img.shields.io/badge/●_available_for_work-0B0F14?style=flat&labelColor=0B0F14&color=0B0F14&logoColor=5EC8F2" height="24" /><img alt="views" src="https://komarev.com/ghpvc/?username=badVIno-ctrl&style=flat&color=143650&label=views" height="24" /><img alt="followers" src="https://img.shields.io/github/followers/badVIno-ctrl?style=flat&label=followers&color=143650&labelColor=0B0F14&logo=github&logoColor=5EC8F2" height="24" /><img alt="stack" src="https://img.shields.io/badge/TS_·_React_·_Node_·_AI-143650?style=flat&labelColor=0B0F14" height="24" />
+<img alt="available" src="https://img.shields.io/badge/●-available_for_work-17222D?style=flat&labelColor=0B0F14" height="24" /> <img alt="views" src="https://komarev.com/ghpvc/?username=badVIno-ctrl&style=flat&color=17222D&label=views" height="24" /> <img alt="followers" src="https://img.shields.io/github/followers/badVIno-ctrl?style=flat&label=followers&color=17222D&labelColor=0B0F14&logo=github&logoColor=5EC8F2" height="24" /> <img alt="focus" src="https://img.shields.io/badge/focus-TS_·_React_·_Node_·_AI-17222D?style=flat&labelColor=0B0F14" height="24" />
 
 # Интерфейсы, которые ощущаются быстрыми.
 
-<img alt="focus" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=1000&color=5EC8F2&width=560&height=34&lines=web+developer+%2F+AI+engineer;founder+of+VioraStudio;motion+with+intent%2C+not+decoration" />
+**VioraStudio** — web apps, interactive UI, AI systems.
+
+<img alt="roles" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3200&pause=1000&color=5EC8F2&width=560&height=32&lines=web+developer+%2F+AI+engineer;founder+of+VioraStudio;motion+with+intent%2C+not+decoration" />
 
 Строю высоконагруженные веб-приложения и AI-системы. Меньше элементов — больше смысла в каждом.
 
 ## Работы
 
-| | Проект | Что делает | Стек |
-|---|---|---|---|
-| ★ | **[VioraMedia](https://vioramedia.onrender.com/)** | AI-продюсер для YouTube: аудит канала, поиск outlier-роликов, аномалии охватов, контент-план | JS · Mistral AI · YouTube API |
-| | [CyberSphere](https://game-t4at.onrender.com/) | Real-time мультиплеер: цикл дня и ночи, локальные фонари, переработанная стрельба | JS · Node · WebSockets |
-| | [AI Online School](https://shweb-ten.vercel.app/) | Образовательная платформа с AI-ядром, активный MVP | TS · Next.js · Mistral |
-| | [iPhones Showcase](https://iphones-573t.onrender.com/) | Адаптивный e-commerce лендинг в эстетике Apple | TS · React · CSS Modules |
-| | [Viora Chess](https://badvino-ctrl.github.io/chess/) | Адаптивный AI-шахматист, 3D-вьюпорты, подсказки, сохранение партий | JS · Three.js |
-| | [Brain Explorer](https://badvino-ctrl.github.io/brain/) | Интерактивная 3D-модель мозга для студентов-анатомов | JS · WebGL |
-| | [Personality Analyzer](https://badvino-ctrl.github.io/testv/) | Тип личности по поведенческим сигналам | Python · JS |
-| | [Viora In Hours](https://badvino-ctrl.github.io/Viora-in-hours/) | Переводит цены в реальные рабочие часы | JS · Mistral AI · Tailwind |
-| | [AI Checkers](https://badvino-ctrl.github.io/online-heckers/) | Шашки с масштабируемым AI-движком | HTML5 · CSS3 · JS |
+| Проект | Что делает | Стек |
+|---|---|---|
+| ★ **[VioraMedia](https://vioramedia.onrender.com/)** | AI-продюсер для YouTube: аудит канала, outlier-ролики, контент-план | JS · Mistral AI · YouTube API |
+| [CyberSphere](https://game-t4at.onrender.com/) | Real-time мультиплеер: цикл дня и ночи, локальные фонари | JS · Node · WebSockets |
+| [AI Online School](https://shweb-ten.vercel.app/) | Образовательная платформа с AI-ядром, активный MVP | TS · Next.js · Mistral |
+| [iPhones Showcase](https://iphones-573t.onrender.com/) | Адаптивный e-commerce лендинг в эстетике Apple | TS · React |
+| [Viora Chess](https://badvino-ctrl.github.io/chess/) | AI-шахматист с 3D-вьюпортами и сохранением партий | JS · Three.js |
+| [Brain Explorer](https://badvino-ctrl.github.io/brain/) | Интерактивная 3D-модель мозга для анатомов | JS · WebGL |
+| [Personality Analyzer](https://badvino-ctrl.github.io/testv/) | Тип личности по поведенческим сигналам | Python · JS |
+| [Viora In Hours](https://badvino-ctrl.github.io/Viora-in-hours/) | Переводит цены в реальные рабочие часы | JS · Mistral AI |
+| [AI Checkers](https://badvino-ctrl.github.io/online-heckers/) | Шашки с масштабируемым AI-движком | HTML5 · JS |
 
 ## Стек
 
@@ -43,6 +44,6 @@
 [Telegram-канал](https://t.me/VioraStudio) · [написать лично](https://t.me/badVInq) · [почта](mailto:divanovmaksim9@gmail.com) · [сайт](https://visit-77s.pages.dev/)
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,55:8FC4E6,100:0B4F79&height=120&section=footer">
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,55:143650,100:5EC8F2&height=120&section=footer">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,45:8FC4E6,100:0B4F79&height=120&section=footer">
+  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:143650,100:5EC8F2&height=120&section=footer">
 </picture>
