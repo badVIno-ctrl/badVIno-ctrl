@@ -1,79 +1,72 @@
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,45:8FC4E6,100:0B4F79&height=190&section=header&text=badVIno&fontSize=72&fontColor=0B0F14&fontAlignY=42&animation=fadeIn">
-  <img width="100%" alt="badVIno" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:143650,100:5EC8F2&height=190&section=header&text=badVIno&fontSize=72&fontColor=E6EDF3&fontAlignY=42&animation=fadeIn">
-</picture>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="1200" height="210" role="img" aria-label="badVIno — VioraStudio">
+  <defs>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#8FB6CE"/>
+      <stop offset="38%" stop-color="#E6EDF3"/>
+      <stop offset="52%" stop-color="#FFFFFF"/>
+      <stop offset="68%" stop-color="#5EC8F2"/>
+      <stop offset="100%" stop-color="#2E7BA6"/>
+      <animateTransform attributeName="gradientTransform" type="translate"
+        values="-0.45 0; 0.45 0; -0.45 0" dur="11s" repeatCount="indefinite"
+        calcMode="spline" keyTimes="0;0.5;1" keySplines=".37 0 .63 1;.37 0 .63 1"/>
+    </linearGradient>
 
-<img alt="available" src="https://img.shields.io/badge/●-available_for_work-17222D?style=flat&labelColor=0B0F14" height="24" /> <img alt="views" src="https://komarev.com/ghpvc/?username=badVIno-ctrl&style=flat&color=17222D&label=views" height="24" /> <img alt="followers" src="https://img.shields.io/github/followers/badVIno-ctrl?style=flat&label=followers&color=17222D&labelColor=0B0F14&logo=github&logoColor=5EC8F2" height="24" /> <img alt="focus" src="https://img.shields.io/badge/focus-TS_·_React_·_Node_·_AI-17222D?style=flat&labelColor=0B0F14" height="24" />
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#5EC8F2" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#5EC8F2" stop-opacity=".38"/>
+      <stop offset="100%" stop-color="#9FD8F0" stop-opacity=".62"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#143650" stop-opacity="0"/>
+      <stop offset="60%" stop-color="#143650" stop-opacity=".85"/>
+      <stop offset="100%" stop-color="#2E7BA6" stop-opacity=".9"/>
+    </linearGradient>
 
-# Интерфейсы, которые ощущаются быстрыми.
+    <path id="curve" d="M64,132 C 300,104 520,158 806,120"/>
+    <path id="rule"  d="M66,152 C 300,124 520,178 812,140"/>
+  </defs>
 
-### VioraStudio — web apps, interactive UI, AI systems.
+  <style>
+    .bg   { fill:#0B0F14 }
+    .name { font-family:"Trebuchet MS","Segoe UI",system-ui,sans-serif;
+            font-size:74px; font-weight:700; letter-spacing:-.5px }
+    .tag  { font-family:"Trebuchet MS","Segoe UI",system-ui,sans-serif;
+            font-size:15px; font-weight:600; letter-spacing:3.4px; fill:#7E93A6 }
+    @media (prefers-color-scheme: light) {
+      .bg  { fill:#F2F7FB }
+      .tag { fill:#5A6E80 }
+    }
+  </style>
 
-<img alt="roles" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1000&color=5EC8F2&width=620&height=38&lines=web+developer+%2F+AI+engineer;founder+of+VioraStudio;motion+with+intent%2C+not+decoration" />
+  <rect class="bg" x="0" y="0" width="1200" height="210"/>
 
-Строю высоконагруженные веб-приложения и AI-системы. Меньше элементов — больше смысла в каждом.
+  <g transform="translate(0,0)">
+    <path d="M0,150 C 210,112 340,192 560,154 C 780,116 900,192 1200,138 L1200,210 L0,210 Z" fill="url(#w2)">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; -46 5; 0 0" dur="13s" repeatCount="indefinite"
+        calcMode="spline" keyTimes="0;0.5;1" keySplines=".37 0 .63 1;.37 0 .63 1"/>
+    </path>
+    <path d="M0,168 C 240,132 380,204 620,168 C 860,132 980,200 1200,158 L1200,210 L0,210 Z" fill="url(#w1)" opacity=".55">
+      <animateTransform attributeName="transform" type="translate"
+        values="0 0; 38 -6; 0 0" dur="17s" repeatCount="indefinite"
+        calcMode="spline" keyTimes="0;0.5;1" keySplines=".37 0 .63 1;.37 0 .63 1"/>
+    </path>
+  </g>
 
-## Работы
+  <path d="M940,26 C 1010,64 1060,52 1150,96" fill="none" stroke="#5EC8F2" stroke-opacity=".26" stroke-width="2">
+    <animate attributeName="stroke-opacity" values=".12;.34;.12" dur="7s" repeatCount="indefinite"
+      calcMode="spline" keyTimes="0;0.5;1" keySplines=".37 0 .63 1;.37 0 .63 1"/>
+  </path>
+  <path d="M900,64 C 990,104 1030,84 1160,140" fill="none" stroke="#5EC8F2" stroke-opacity=".14" stroke-width="1.5"/>
 
-### ★ [VioraMedia](https://vioramedia.onrender.com/) — AI-продюсер для YouTube
+  <text class="name" fill="url(#sheen)">
+    <textPath href="#curve" startOffset="0">badVIno</textPath>
+  </text>
 
-Аудит канала, поиск outlier-роликов, расчёт аномалий охвата, контент-план и стратегия роста. Флагманский продукт студии.
+  <use href="#rule" fill="none" stroke="#5EC8F2" stroke-opacity=".55" stroke-width="2" stroke-dasharray="760" stroke-dashoffset="760">
+    <animate attributeName="stroke-dashoffset" from="760" to="0" dur="1.6s" begin="0.15s" fill="freeze"
+      calcMode="spline" keyTimes="0;1" keySplines=".22 1 .36 1"/>
+  </use>
 
-<img alt="" src="https://img.shields.io/badge/JavaScript-0B0F14?style=flat&logo=javascript&logoColor=5EC8F2" height="24" /> <img alt="" src="https://img.shields.io/badge/Mistral_AI-0B0F14?style=flat&logo=mistralai&logoColor=5EC8F2" height="24" /> <img alt="" src="https://img.shields.io/badge/YouTube_Data_API-0B0F14?style=flat&logo=youtube&logoColor=5EC8F2" height="24" />
-
-### [CyberSphere](https://game-t4at.onrender.com/) — real-time мультиплеер
-
-Цикл дня и ночи, локализованные источники света, переработанная механика стрельбы. Синхронизация состояния через WebSockets.
-
-<img alt="" src="https://img.shields.io/badge/Node.js-0B0F14?style=flat&logo=nodedotjs&logoColor=5EC8F2" height="24" /> <img alt="" src="https://img.shields.io/badge/WebSockets-0B0F14?style=flat&logo=socketdotio&logoColor=5EC8F2" height="24" /> <img alt="" src="https://img.shields.io/badge/Canvas-0B0F14?style=flat&logo=html5&logoColor=5EC8F2" height="24" />
-
-### [AI Online School](https://shweb-ten.vercel.app/) — образовательная платформа
-
-Учебный трек, который перестраивается под ученика. AI-ядро на Mistral, активный MVP.
-
-<img alt="" src="https://img.shields.io/badge/TypeScript-0B0F14?style=flat&logo=typescript&logoColor=5EC8F2" height="24" /> <img alt="" src="https://img.shields.io/badge/Next.js-0B0F14?style=flat&logo=nextdotjs&logoColor=5EC8F2" height="24" /> <img alt="" src="https://img.shields.io/badge/Mistral_AI-0B0F14?style=flat&logo=mistralai&logoColor=5EC8F2" height="24" />
-
-<details>
-<summary><b>Ещё шесть проектов</b></summary>
-
-| Проект | Что делает | Стек |
-|---|---|---|
-| [iPhones Showcase](https://iphones-573t.onrender.com/) | Адаптивный e-commerce лендинг в эстетике Apple | TS · React |
-| [Viora Chess](https://badvino-ctrl.github.io/chess/) | AI-шахматист с 3D-вьюпортами и сохранением партий | JS · Three.js |
-| [Brain Explorer](https://badvino-ctrl.github.io/brain/) | Интерактивная 3D-модель мозга для анатомов | JS · WebGL |
-| [Personality Analyzer](https://badvino-ctrl.github.io/testv/) | Тип личности по поведенческим сигналам | Python · JS |
-| [Viora In Hours](https://badvino-ctrl.github.io/Viora-in-hours/) | Переводит цены в реальные рабочие часы | JS · Mistral AI |
-| [AI Checkers](https://badvino-ctrl.github.io/online-heckers/) | Шашки с масштабируемым AI-движком | HTML5 · JS |
-
-</details>
-
-## Стек
-
-### Языки
-
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0B0F14?style=flat&logo=typescript&logoColor=5EC8F2" height="28" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0B0F14?style=flat&logo=javascript&logoColor=5EC8F2" height="28" /> <img alt="Python" src="https://img.shields.io/badge/Python-0B0F14?style=flat&logo=python&logoColor=5EC8F2" height="28" /> <img alt="Java" src="https://img.shields.io/badge/Java-0B0F14?style=flat&logo=openjdk&logoColor=5EC8F2" height="28" /> <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0B0F14?style=flat&logo=kotlin&logoColor=5EC8F2" height="28" /> <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-0B0F14?style=flat&logo=cplusplus&logoColor=5EC8F2" height="28" /> <img alt="C" src="https://img.shields.io/badge/C-0B0F14?style=flat&logo=c&logoColor=5EC8F2" height="28" />
-
-### Инструменты
-
-<img alt="React" src="https://img.shields.io/badge/React-0B0F14?style=flat&logo=react&logoColor=5EC8F2" height="28" /> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-0B0F14?style=flat&logo=nextdotjs&logoColor=5EC8F2" height="28" /> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0B0F14?style=flat&logo=nodedotjs&logoColor=5EC8F2" height="28" /> <img alt="Three.js" src="https://img.shields.io/badge/Three.js-0B0F14?style=flat&logo=threedotjs&logoColor=5EC8F2" height="28" /> <img alt="Tailwind" src="https://img.shields.io/badge/Tailwind-0B0F14?style=flat&logo=tailwindcss&logoColor=5EC8F2" height="28" /> <img alt="WebSockets" src="https://img.shields.io/badge/WebSockets-0B0F14?style=flat&logo=socketdotio&logoColor=5EC8F2" height="28" /> <img alt="Mistral AI" src="https://img.shields.io/badge/Mistral_AI-0B0F14?style=flat&logo=mistralai&logoColor=5EC8F2" height="28" />
-
-## Сейчас
-
-### Развиваю VioraMedia и беру заказы на интерфейсы с AI-начинкой.
-
-Пишите в Telegram — отвечаю в течение дня.
-
-## Цифры
-
-<picture><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=badVIno-ctrl&show_icons=true&hide=issues&hide_title=true&border_radius=14&border_color=DCE6EE&bg_color=FFFFFF&icon_color=0B4F79&text_color=2B3742"><img height="160" alt="stats" src="https://github-readme-stats.vercel.app/api?username=badVIno-ctrl&show_icons=true&hide=issues&hide_title=true&border_radius=14&border_color=17222D&bg_color=0B0F14&icon_color=5EC8F2&text_color=E6EDF3"></picture> <picture><source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=badVIno-ctrl&layout=compact&langs_count=6&hide_title=true&border_radius=14&border_color=DCE6EE&bg_color=FFFFFF&text_color=2B3742"><img height="160" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badVIno-ctrl&layout=compact&langs_count=6&hide_title=true&border_radius=14&border_color=17222D&bg_color=0B0F14&text_color=E6EDF3"></picture>
-
-<img width="100%" alt="activity" src="https://github-readme-activity-graph.vercel.app/graph?username=badVIno-ctrl&radius=14&bg_color=0B0F14&color=E6EDF3&line=5EC8F2&point=E6EDF3&area=true&area_color=143650&hide_border=true&hide_title=true" />
-
-## Связь
-
-### [Telegram-канал](https://t.me/VioraStudio) · [написать лично](https://t.me/badVInq) · [почта](mailto:divanovmaksim9@gmail.com) · [сайт](https://visit-77s.pages.dev/)
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,45:8FC4E6,100:0B4F79&height=120&section=footer">
-  <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:143650,100:5EC8F2&height=120&section=footer">
-</picture>
+  <text class="tag" x="68" y="188">VIORASTUDIO · WEB APPS · INTERACTIVE UI · AI SYSTEMS</text>
+</svg>
