@@ -1,4 +1,7 @@
-<img width="100%" alt="badVIno — VIORA STUDIO" src="https://raw.githubusercontent.com/badVIno-ctrl/badVIno-ctrl/main/assets/badvino-header.svg?v=1" />
+<picture>
+<source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=170&section=header&text=badVIno&fontSize=72&fontColor=111111&fontAlignY=40&animation=fadeIn&desc=VIORA%20STUDIO%20%C2%B7%20WEB%20%C2%B7%20INTERACTIVE%20UI%20%C2%B7%20AI&descSize=14&descAlignY=62">
+<img width="100%" alt="badVIno — VIORA STUDIO" src="https://capsule-render.vercel.app/api?type=transparent&height=170&section=header&text=badVIno&fontSize=72&fontColor=F5F2EA&fontAlignY=40&animation=fadeIn&desc=VIORA%20STUDIO%20%C2%B7%20WEB%20%C2%B7%20INTERACTIVE%20UI%20%C2%B7%20AI&descSize=14&descAlignY=62">
+</picture>
 
 <img alt="available" src="https://img.shields.io/badge/%E2%97%8F-available%20for%20work-0D0D0D?style=flat-square&labelColor=000000" height="22" /> <img alt="views" src="https://komarev.com/ghpvc/?username=badVIno-ctrl&style=flat-square&color=0D0D0D&label=views" height="22" /> <img alt="followers" src="https://img.shields.io/github/followers/badVIno-ctrl?style=flat-square&label=followers&color=0D0D0D&labelColor=000000&logo=github&logoColor=F5F2EA" height="22" /> <img alt="focus" src="https://img.shields.io/badge/focus-TS%20%C2%B7%20React%20%C2%B7%20Node%20%C2%B7%20AI-0D0D0D?style=flat-square&labelColor=000000" height="22" />
 
